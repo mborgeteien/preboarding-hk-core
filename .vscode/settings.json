@@ -1,4 +1,4 @@
 {
     "appService.defaultWebAppToDeploy": "/subscriptions/558dc010-ad75-4e35-a600-b28b3c7bab04/resourceGroups/rsg-cor-preboarding-web/providers/Microsoft.Web/sites/app-cor-hk-web",
-    "appService.deploySubpath": "css"
+    "appService.deploySubpath": "."
 }
